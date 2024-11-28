@@ -1,0 +1,16 @@
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\bin\Debug\net8.0-windows\Numeros_Pseudoaleatorios.exe
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\bin\Debug\net8.0-windows\Numeros_Pseudoaleatorios.deps.json
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\bin\Debug\net8.0-windows\Numeros_Pseudoaleatorios.runtimeconfig.json
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\bin\Debug\net8.0-windows\Numeros_Pseudoaleatorios.dll
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\bin\Debug\net8.0-windows\Numeros_Pseudoaleatorios.pdb
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.Form1.resources
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.csproj.GenerateResource.cache
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.AssemblyInfoInputs.cache
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.AssemblyInfo.cs
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.dll
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\refint\Numeros_Pseudoaleatorios.dll
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.pdb
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\Numeros_Pseudoaleatorios.genruntimeconfig.cache
+C:\Users\Gael\source\repos\Numeros_Pseudoaleatorios\Numeros_Pseudoaleatorios\obj\Debug\net8.0-windows\ref\Numeros_Pseudoaleatorios.dll
