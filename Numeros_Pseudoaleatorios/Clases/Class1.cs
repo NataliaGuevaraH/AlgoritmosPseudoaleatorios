@@ -6,20 +6,17 @@ using System.Threading.Tasks;
 
 namespace Numeros_Pseudoaleatorios.Clases
 {
-    public class Congruencial
+    public class NoCongruencial
     {
         public double Semilla { get; set; }
-        public int NumExperimentos {  get; set; }
+        public int NumExperimentos { get; set; }
 
-        public int M {  get; set; }
-        public Congruencial() { }
+        public NoCongruencial() { }
 
-        public Congruencial(double semilla,int numExperimentos, int m)
+        public NoCongruencial(double semilla, int numExperimentos)
         {
             Semilla = semilla;
             NumExperimentos = numExperimentos;
-            M = m;
         }
     }
-
 }

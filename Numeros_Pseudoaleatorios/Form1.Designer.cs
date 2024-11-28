@@ -33,15 +33,22 @@
             textBox1 = new TextBox();
             textBox2 = new TextBox();
             label2 = new Label();
+            textBox3 = new TextBox();
+            label3 = new Label();
+            button2 = new Button();
+            textBox4 = new TextBox();
+            label4 = new Label();
+            textBox5 = new TextBox();
+            label5 = new Label();
             SuspendLayout();
             // 
             // button1
             // 
             button1.Location = new Point(328, 325);
             button1.Name = "button1";
-            button1.Size = new Size(144, 60);
+            button1.Size = new Size(186, 88);
             button1.TabIndex = 0;
-            button1.Text = "Generar valor aleatorio";
+            button1.Text = "Generar valores aleatorios No congruencial";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -81,11 +88,80 @@
             label2.TextAlign = ContentAlignment.TopCenter;
             label2.Click += label2_Click;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(362, 114);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(125, 27);
+            textBox3.TabIndex = 6;
+            textBox3.TextChanged += textBox3_TextChanged;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Location = new Point(386, 78);
+            label3.Name = "label3";
+            label3.Size = new Size(14, 20);
+            label3.TabIndex = 5;
+            label3.Text = "t";
+            label3.Click += label3_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(541, 53);
+            button2.Name = "button2";
+            button2.Size = new Size(186, 88);
+            button2.TabIndex = 7;
+            button2.Text = "Generar valores aleatorios Congruencial";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(211, 114);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(125, 27);
+            textBox4.TabIndex = 9;
+            textBox4.TextChanged += textBox4_TextChanged;
+            // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Location = new Point(235, 78);
+            label4.Name = "label4";
+            label4.Size = new Size(18, 20);
+            label4.TabIndex = 8;
+            label4.Text = "d";
+            // 
+            // textBox5
+            // 
+            textBox5.Location = new Point(53, 114);
+            textBox5.Name = "textBox5";
+            textBox5.Size = new Size(125, 27);
+            textBox5.TabIndex = 11;
+            textBox5.TextChanged += textBox5_TextChanged;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(77, 78);
+            label5.Name = "label5";
+            label5.Size = new Size(82, 20);
+            label5.TabIndex = 10;
+            label5.Text = "SumaResta";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox5);
+            Controls.Add(label5);
+            Controls.Add(textBox4);
+            Controls.Add(label4);
+            Controls.Add(button2);
+            Controls.Add(textBox3);
+            Controls.Add(label3);
             Controls.Add(textBox2);
             Controls.Add(label2);
             Controls.Add(textBox1);
@@ -104,5 +180,12 @@
         private TextBox textBox1;
         private TextBox textBox2;
         private Label label2;
+        private TextBox textBox3;
+        private Label label3;
+        private Button button2;
+        private TextBox textBox4;
+        private Label label4;
+        private TextBox textBox5;
+        private Label label5;
     }
 }
